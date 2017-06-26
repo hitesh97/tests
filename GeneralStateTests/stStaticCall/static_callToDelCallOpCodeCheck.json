@@ -1,5 +1,10 @@
 {
     "static_callToDelCallOpCodeCheck" : {
+        "_info" : {
+            "comment" : "",
+            "filledwith" : "cpp-1.3.0+commit.631c875f.Linux.g++",
+            "source" : "/src/GeneralStateTestsFiller/stStaticCall/static_callToDelCallOpCodeCheckFiller.json"
+        },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",
             "currentDifficulty" : "0x20000",
@@ -51,7 +56,7 @@
             ],
             "Metropolis" : [
                 {
-                    "hash" : "0xf2b0f2957a6864f494e4f88ba73477ecf6d59666cce4ec7e280cc4922b1ee32e",
+                    "hash" : "0xfb5b27d9af7dae60a7f5a383bb93bd5654de5d98c7063ceeaecfbba9368e39b6",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,

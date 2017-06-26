@@ -15,7 +15,7 @@
                 "result" : {
                     "1000000000000000000000000000000000000000" : {
                         "storage" : {
-                            "0x00" : "0x01"
+                            "0x00" : "0x00"
                         }
                     }
                 }
@@ -24,7 +24,7 @@
         "pre" : {
             "1000000000000000000000000000000000000000" : {
                 "balance" : "1000000000000000000",
-		"code" : "Static call success",
+		"code" : "Static call fails because SSTORE is attempted",
                 "code" : "{  [[ 0 ]] (STATICCALL 100000 (CALLDATALOAD 0) 0 0 0 0)  }",
                 "nonce" : "0",
                 "storage" : {
